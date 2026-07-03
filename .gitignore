@@ -1,3 +1,6 @@
 src.html
+content_src.html
 build.py
 __pycache__/
+*.jpeg
+.playwright-mcp/
