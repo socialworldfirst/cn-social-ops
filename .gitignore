@@ -1,5 +1,6 @@
 src.html
 content_src.html
+kol_src.html
 build.py
 __pycache__/
 *.jpeg
