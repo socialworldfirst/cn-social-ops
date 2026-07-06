@@ -3,6 +3,7 @@ content_src.html
 kol_src.html
 exec_src.html
 roster_src.html
+shortlist_src.html
 build.py
 __pycache__/
 *.jpeg
