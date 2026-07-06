@@ -2,7 +2,9 @@ src.html
 content_src.html
 kol_src.html
 exec_src.html
+roster_src.html
 build.py
 __pycache__/
 *.jpeg
 .playwright-mcp/
+run100/
