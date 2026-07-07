@@ -9,3 +9,4 @@ __pycache__/
 *.jpeg
 .playwright-mcp/
 run100/
+goals_src.html
